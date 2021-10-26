@@ -1,0 +1,9 @@
+{
+  "name": "allusic",
+  "version": "1.0.0",
+  "description": "Music, Music, Music. Beyond the platform, sync your music everywhere.",
+  "main": "src/index.ts",
+  "repository": "https://github.com/code-yeongyu/allusic",
+  "author": "YeonGyu Kim",
+  "license": "GPL-3"
+}
